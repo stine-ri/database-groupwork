@@ -2,7 +2,8 @@
 ##Group members
 1.  Felix Kagecha felixkagecha@gmail.com
 2.  Christine Nyambwari christinenyambwari@gmail.com
-3.  
+3.  Stanly Odera.
+oderas596@gmail.com
 ## Project Overview
 
 This project provides a secure and automated setup for managing a MySQL database tailored for bookstore operations. It includes:
